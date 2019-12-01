@@ -5,13 +5,7 @@
 https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/
 ```linux
 sudo apt-get upgrade
-sudo apt-get install build-essential cmake unzip pkg-config
-sudo apt-get install libjpeg-dev libpng-dev libtiff-dev
-sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
-sudo apt-get install libxvidcore-dev libx264-dev
-sudo apt-get install libgtk-3-dev
-sudo apt-get install libatlas-base-dev gfortran
-sudo apt-get install python-dev
+sudo apt-get install build-essential cmake unzip pkg-config libjpeg-dev libpng-dev libtiff-dev libavcodec-dev libavformat-dev libswscale-dev libv4l-dev libxvidcore-dev libx264-dev libgtk-3-dev libatlas-base-dev gfortran python-dev
 ```
 ### 下載OpenCV
 ```linux
